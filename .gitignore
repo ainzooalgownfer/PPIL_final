@@ -1,5 +1,11 @@
-/out/
-/build/
+# Visual Studio
 .vs/
 *.user
-*.sln
+*.suo
+*.ipch
+*.db
+x64/
+Debug/
+Release/
+*.obj
+*.exe

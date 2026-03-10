@@ -1,0 +1,7 @@
+Groupe;Debut;black
+Cercle;yellow;(600,100);50
+Groupe;Debut;blue
+Segment;black;(100,400);(300,400)
+Polygone;red;(100,400);(200,300);(300,400)
+Groupe;Fin
+Groupe;Fin
